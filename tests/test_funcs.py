@@ -1,4 +1,4 @@
-from funcs import add_one, recommend_movie
+from ci_demo.funcs import add_one, recommend_movie
 import pytest
 
 
